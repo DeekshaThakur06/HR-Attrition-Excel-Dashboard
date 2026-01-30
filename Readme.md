@@ -1,5 +1,9 @@
 # HR Attrition Analysis Dashboard (Excel)
 
+## 📸 Dashboard Preview
+
+![HR Attrition Dashboard](/dashboard_preview.png)
+
 ## 📌 Project Overview
 This project presents an HR Attrition Analysis Dashboard built using Microsoft Excel to analyze employee attrition patterns and key workforce trends.
 
